@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+           Zain Digital Technologies is a Brand Manufacturing All around the world save your mony and Time ⏱️
           </Link>
         </div>
       </div>
